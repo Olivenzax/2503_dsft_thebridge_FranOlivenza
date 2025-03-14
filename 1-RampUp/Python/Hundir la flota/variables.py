@@ -1,0 +1,3 @@
+# Variables
+
+tamaño = 10
